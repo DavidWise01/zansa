@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-ZANSA",
+  "name": "残差 ZANSA · ZAN",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦残差 ZANSA · ZAN:zansa:f4c539⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "f4c5399ca345566619c080856c3ad26a5430945bcb0b60c5529976baacbc8cfc",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
